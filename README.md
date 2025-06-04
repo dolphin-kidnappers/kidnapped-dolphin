@@ -41,3 +41,11 @@
 ### 🧪 과학적 정책 수립  
 정책 결정자들이 정확한 데이터를 기반으로 오염 저감 정책을 수립할 수 있도록 지원합니다.
 
+---
+
+## 🚧 기술 스택 (예시)
+- 언어: Python, JavaScript  
+- 프레임워크: Django / Flask (백엔드), React / Vue (프론트엔드)  
+- AI: TensorFlow / PyTorch  
+- 지도 시각화: Leaflet, Mapbox, Kakao Maps 등  
+- 데이터: 공공환경데이터, 수질 데이터, 어류 생태 정보 등  

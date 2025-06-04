@@ -41,36 +41,3 @@
 ### 🧪 과학적 정책 수립  
 정책 결정자들이 정확한 데이터를 기반으로 오염 저감 정책을 수립할 수 있도록 지원합니다.
 
----
-
-## 🚧 기술 스택 (예시)
-- 언어: Python, JavaScript  
-- 프레임워크: Django / Flask (백엔드), React / Vue (프론트엔드)  
-- AI: TensorFlow / PyTorch  
-- 지도 시각화: Leaflet, Mapbox, Kakao Maps 등  
-- 데이터: 공공환경데이터, 수질 데이터, 어류 생태 정보 등  
-
----
-
-## 📁 프로젝트 구조 (예시)
-kidnapped-dolphin/
-├── backend/ # API 및 AI 분석 로직
-├── frontend/ # 지도 시각화 및 UI
-├── data/ # 수집된 환경 데이터
-├── README.md
-└── ...
-
-
----
-
-## 🙌 기여 방법
-1. 이 레포지토리를 포크하세요  
-2. 새로운 브랜치를 만드세요 (`git checkout -b feature/your-feature`)  
-3. 변경사항을 커밋하세요 (`git commit -m 'Add some feature'`)  
-4. 푸시하세요 (`git push origin feature/your-feature`)  
-5. Pull Request를 보내주세요  
-
----
-
-## 📬 문의
-프로젝트에 대한 문의나 제안이 있으시다면 이슈 또는 PR로 남겨주세요!

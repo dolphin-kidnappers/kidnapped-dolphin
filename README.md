@@ -1,3 +1,3 @@
 # kidnapped-dolphin
-## u is not him :sob::sob:
+## i gotta tell u smth vro :sob::sob:
 ![sybau](/assets/nahh.jpg)
